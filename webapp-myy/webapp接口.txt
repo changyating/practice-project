@@ -1,0 +1,16 @@
+首页：
+1. 导航小功能组件接口：https://www.imooc.com/api/mall-wepApp/index/nav
+2. 精选折扣：接口数据是本地模拟json数据，存在api下的product.json中
+3. 点击商品，跳转详情页的接口：https://www.imooc.com/api/mall-webApp/details/1
+
+window.location.search
+
+目的地：
+
+主体接口：https://www.imooc.com/api/mall-wepApp/destination/content/1
+	https://www.imooc.com/api/mall-wepApp/destination/content/2
+	https://www.imooc.com/api/mall-wepApp/destination/content/3
+	https://www.imooc.com/api/mall-wepApp/destination/content/4
+	https://www.imooc.com/api/mall-wepApp/destination/content/5
+	https://www.imooc.com/api/mall-wepApp/destination/content/6
+	https://www.imooc.com/api/mall-wepApp/destination/content/7

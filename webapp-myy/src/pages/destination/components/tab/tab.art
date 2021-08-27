@@ -1,0 +1,16 @@
+<!--
+ * @Descripttion: 
+ * @Author: Chang YaTing [2210993284@qq.com]
+ * @Date: 2021-08-20 15:18:57
+ * @LastEditors: Chang YingYing [2210993284@qq.com]
+ * @LastEditTime: 2021-08-20 15:24:03
+-->
+<ul class="tab">
+    <li class="tab-item tab-item-active" data-id="1">亚洲</li>
+    <li class="tab-item" data-id="2">欧洲</li>
+    <li class="tab-item" data-id="3">非洲</li>
+    <li class="tab-item" data-id="4">北美</li>
+    <li class="tab-item" data-id="5">大洋洲</li>
+    <li class="tab-item" data-id="6">南美</li>
+    <li class="tab-item" data-id="7">南极洲</li>
+</ul>

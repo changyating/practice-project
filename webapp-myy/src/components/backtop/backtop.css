@@ -1,0 +1,16 @@
+.backtop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: rgba(39, 197, 147, 0.8);
+}
+.backtop .icon-direction-up {
+    color: #fff;
+    font-size: 22px;
+}
+.backtop-hidden {
+    display: none !important;
+}

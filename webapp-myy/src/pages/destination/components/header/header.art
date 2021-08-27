@@ -1,0 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @Author: Chang YaTing [2210993284@qq.com]
+ * @Date: 2021-08-20 14:31:14
+ * @LastEditors: Chang YingYing [2210993284@qq.com]
+ * @LastEditTime: 2021-08-20 14:58:03
+-->
+<div class="header">
+        <h1 class="header-title">目的地</h1>
+        <% include('../../../../components/searchbox/searchbox.art', {placeholder: '搜索你想去的国家'}) %>
+</div>

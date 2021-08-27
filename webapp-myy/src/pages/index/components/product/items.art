@@ -1,0 +1,22 @@
+<!--
+ * @Descripttion: 
+ * @Author: Chang YaTing [2210993284@qq.com]
+ * @Date: 2021-08-19 14:05:46
+ * @LastEditors: Chang YingYing [2210993284@qq.com]
+ * @LastEditTime: 2021-08-20 13:40:50
+-->
+        {{each items}}
+        <li class="product-item">
+            <a href="./details.html?id={{$value.id}}">
+                <p class="product-pic">
+                    <img src="{{ $value.url }}" alt="" class="product-img">
+                </p>
+                <p class="product-name">
+                    {{ $value.title }}
+                </p>
+                <p class="product-price">  
+                    {{ $value.price }}
+                </p>
+            </a>
+        </li>
+        {{/each}}

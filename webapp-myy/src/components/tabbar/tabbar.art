@@ -1,0 +1,21 @@
+<!--
+ * @Descripttion: 
+ * @Author: Chang YaTing [2210993284@qq.com]
+ * @Date: 2021-08-20 09:43:55
+ * @LastEditors: Chang YingYing [2210993284@qq.com]
+ * @LastEditTime: 2021-08-20 10:06:55
+-->
+<div class="tabbar">
+    <a href="./index.html" class="tabbar-item {{active === 'index' ? 'tabbar-item-active':''}}">
+        <i class="iconfont icon-zhuye"></i>
+        <span>首页</span>
+    </a>
+    <a href="./destination.html" class="tabbar-item {{active === 'destination' ? 'tabbar-item-active':''}}">
+        <i class="iconfont icon-weizhi"></i>
+        <span>目的地</span>
+    </a>
+    <a href="./personal.html" class="tabbar-item {{active === 'personal' ? 'tabbar-item-active':''}}">
+        <i class="iconfont icon-wode"></i>
+        <span>我的</span>
+    </a>
+</div>

@@ -1,0 +1,13 @@
+<!--
+ * @Descripttion: 
+ * @Author: Chang YaTing [2210993284@qq.com]
+ * @Date: 2021-08-19 13:24:00
+ * @LastEditors: Chang YingYing [2210993284@qq.com]
+ * @LastEditTime: 2021-08-20 11:12:45
+-->
+<div class="product">
+    <h2 class="product-title">精选折扣</h2>
+    <ul class="product-list" id="product-list">
+        {{include '../../../../components/loading/loading.art'}}
+    </ul>
+</div>
